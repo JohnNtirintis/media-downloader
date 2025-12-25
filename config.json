@@ -1,0 +1,12 @@
+{
+    "logs_directory": "logs",
+    "delimiter": ",",
+    "file_formats": {
+        "1": ".mp3",
+        "2": ".mp4"
+    },
+    "quality_formats": {
+        "mp3": "worst",
+        "mp4": "best[ext=mp4]"
+    }
+}
