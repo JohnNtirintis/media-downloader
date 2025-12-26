@@ -34,4 +34,4 @@ vboxapi==1.0
 virtualenv==20.24.5
 websockets==14.1
 Werkzeug==2.3.4
-yt-dlp==2024.12.6
+yt-dlp==2025.12.8
